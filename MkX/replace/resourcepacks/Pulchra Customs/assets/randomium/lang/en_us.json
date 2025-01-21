@@ -1,0 +1,12 @@
+{
+  "block.randomium.randomium_ore": "Formium Ore",
+  "block.randomium.randomium_block": "Formium Block",
+  "block.randomium.randomium_stabilized": "Stabilized Formium",
+  "item.randomium.randomium": "Formium",
+  "message.randomium.description" : "Unstable, morphs when crafted",
+  "block.randomium.randomium_ore_end": "End Formium Ore",
+  "block.randomium.randomium_ore_deepslate": "Deepslate Formium Ore",
+  "entity.randomium.moving_block": "End Formium Ore",
+  "item.randomium.any_item": "[Any Item]",
+  "randomium.jei.duplicates": "Duplicates"
+}
