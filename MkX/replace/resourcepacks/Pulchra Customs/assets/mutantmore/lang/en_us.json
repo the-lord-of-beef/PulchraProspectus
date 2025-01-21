@@ -1,0 +1,253 @@
+{
+	"entity.mutantmore.test_climber" : "Norman",
+	
+	"entity.mutantmore.concoction_w" : "Concoction W",
+	"entity.mutantmore.mutation_effect" : "Mutation Cloud",
+	"entity.mutantmore.fire_slash" : "Fire Slash",
+	"entity.mutantmore.mutant_shulker_bullet" : "Monstrous Shulker Bullet",
+	"entity.mutantmore.custom_shulker_bullet" : "Shulker Bullet",
+	"entity.mutantmore.mutant_blaze_fireball" : "Fireball",
+	"entity.mutantmore.mutant_wither_skeleton" : "Wither Skeleton Champion",
+	"entity.mutantmore.mutant_shulker" : "Monstrous Shulker",
+	"entity.mutantmore.mutant_blaze" : "Inferno",
+	"entity.mutantmore.rodling" : "Rodling",
+	"entity.mutantmore.rodling_fireball" : "Rodling Fireball",
+	"entity.mutantmore.thrown_mutation_potion" : "Mutation Potion",
+	"entity.mutantmore.wither_bomb" : "Wither Bomb",
+	"entity.mutantmore.mutant_wither_skeleton_body_part" : "Wither Skeleton Champion Body Part",
+	"entity.mutantmore.mutant_shulker_turret" : "Shulker Turret",
+	"entity.mutantmore.mutant_shulker_trap" : "Shulker Trap",
+	"entity.mutantmore.mutant_blaze_rod_projectile" : "Inferno Rod",
+	"entity.mutantmore.mutant_blaze_shields" : "Inferno Shields",
+		
+	"item.mutantmore.mutant_wither_skeleton_spawn_egg" : "Wither Skeleton Champion Spawn Egg",
+	"item.mutantmore.mutant_shulker_spawn_egg" : "Monstrous Shulker Spawn Egg",
+	"item.mutantmore.mutant_blaze_spawn_egg" : "Inferno Spawn Egg",
+	"item.mutantmore.rodling_spawn_egg" : "Rodling Spawn Egg",
+	
+	"item.mutantmore.formula_y" : "Formula Y",
+	"item.mutantmore.compound_z" : "Compound Z",
+	"item.mutantmore.blazing_scimitar" : "Blazing Scimitar",
+	"item.mutantmore.wither_bomb" : "Wither Bomb",
+    "item.mutantmore.mutant_shulker_shield" : "Monstrous Shulker Shield",
+    "item.mutantmore.mutant_shulker_shell" : "Monstrous Shulker Shell",
+    "item.mutantmore.mutant_shulker_trap" : "Shulker Trap",
+    "item.mutantmore.mutant_shulker_turret" : "Shulker Turret",
+    "item.mutantmore.rodling_checker" : "Rodling Checker",
+    "item.mutantmore.rodling_helmet" : "Rodling Helmet",
+    "item.mutantmore.rodling_shields" : "Rodling Shields",
+    "item.mutantmore.mutant_blaze_core" : "Inferno Core",
+    "item.mutantmore.mutant_blaze_shields": "Inferno Shields",
+	
+	"item.mutantmore.mutant_wither_skeleton_arms": "Wither Skeleton Champion Arms",
+	"item.mutantmore.mutant_wither_skeleton_limb": "Wither Skeleton Champion Limb",
+	"item.mutantmore.mutant_wither_skeleton_pelvis": "Wither Skeleton Champion Pelvis",
+	"item.mutantmore.mutant_wither_skeleton_rib_cage": "Wither Skeleton Champion Rib Cage",
+	"item.mutantmore.mutant_wither_skeleton_rib": "Wither Skeleton Champion Rib",
+	"item.mutantmore.mutant_wither_skeleton_shoulder_pad": "Wither Skeleton Champion Shoulder Pad",
+	"item.mutantmore.mutant_wither_skeleton_skull": "Wither Skeleton Champion Skull",
+	"item.mutantmore.mutant_wither_skeleton_chestplate": "Wither Skeleton Champion Chestplate",
+	"item.mutantmore.mutant_wither_skeleton_leggings": "Wither Skeleton Champion Leggings",
+	"item.mutantmore.mutant_wither_skeleton_boots": "Wither Skeleton Champion Boots",
+		
+	"item.mutantmore.music_disc_hunted": "Music Disc",
+	"item.mutantmore.music_disc_hunted.desc": "Alexander's Fun And Games - hunted",
+	"item.mutantmore.disc_fragment_hunted": "Disc Fragment",
+	"item.mutantmore.disc_fragment_hunted.desc": "Music Disc - hunted",
+	
+	"item.mutantmore.music_disc_found": "Music Disc",
+	"item.mutantmore.music_disc_found.desc": "Alexander's Fun And Games - found",
+	"item.mutantmore.disc_fragment_found": "Disc Fragment",
+	"item.mutantmore.disc_fragment_found.desc": "Music Disc - found",
+	
+	"item.mutantmore.music_disc_approach": "Music Disc",
+	"item.mutantmore.music_disc_approach.desc": "Alexander's Fun And Games - approach",
+	"item.mutantmore.disc_fragment_approach": "Disc Fragment",
+	"item.mutantmore.disc_fragment_approach.desc": "Music Disc - approach",
+	
+	"block.mutantmore.heatstorm_generator": "Heatstorm Generator",
+	
+	"gui.mutantmore.patron_pet.plays_audio": "Plays Sounds",
+	"gui.mutantmore.patron_pet.shows_particles": "Spawns Particles",
+	"gui.mutantmore.patron_pet.should_spawn": "Concoction W Enabled",
+	"gui.mutantmore.patron_pet.title": "Concoction W",
+	
+	"gui.mutantmore.rodling_checker.burn_blocks": "Burn Blocks",
+	"gui.mutantmore.rodling_checker.always_show_name": "Always Show Name",
+	"gui.mutantmore.rodling_checker.health": "Health",
+	"gui.mutantmore.rodling_checker.armoured": "Armoured",
+	"gui.mutantmore.rodling_checker.shielded": "Shielded",
+	
+	"command.fail.concoctionw.not_patron": "You can't access Patron Pets because you aren't a patron! If you want to play with Patron Pets, get access to WIP mods and support me, please consider becoming a patron, it really helps! Become a patron ",
+	"command.fail.concoctionw.not_patron_here": "here!",
+	
+	"config.mutantmore.formula_y_mutate_chance": "Formula Y Mutation Chance",
+	"config.mutantmore.formula_y_mutate_chance.desc": "How often Formula Y creates mutants, usually set to 25%",
+	"config.mutantmore.compound_z_mutate_chance": "Compound Z Mutation Chance",
+	"config.mutantmore.compound_z_mutate_chance.desc": "How often Compound Z creates mutants, usually set to 25%",
+	
+    "death.attack.rib_crush": "%1$s was crushed in the ribs of %2$s",
+    "death.attack.fire_slash": "%1$s was incinerated by a fire slash from %2$s",
+    "death.attack.mutant_shulker_bullet": "%1$s was hit by a bullet from %2$s",
+    "death.attack.mutant_shulker_bite": "%1$s was mangled in the grip of %2$s's jaw",
+    "death.attack.mutant_shulker_flight": "%1$s couldn't avoid %2$s",
+    "death.attack.mutant_shulker_anvil_crush": "%1$s was crushed by a falling %2$s",
+    "death.attack.mutant_shulker_trap": "%1$s was snapped to death by %2$s",
+    "death.attack.fire_resistance_bypassing_fireball": "%1$s was fireballed by %2$s",
+    "death.attack.mutant_blaze_rod_projectile": "%1$s was pelted with rods from %2$s",
+    "death.attack.heat": "%1$s overheated",
+    
+    "advancements.nether.brew_mutation_potion.title": "Local Chemistry",
+    "advancements.nether.brew_mutation_potion.description": "Brew a special potion to mutate creatures",
+    
+    "advancements.nether.mutate_mob.title": "Make a Mutant",
+    "advancements.nether.mutate_mob.description": "Use a mutation potion to turn a creature into its mutant form",
+    
+    "advancements.nether.kill_a_mutant.title": "Mutant Hunter",
+    "advancements.nether.kill_a_mutant.description": "Defeat any mutated monster",
+    
+    "advancements.nether.kill_all_mutants.title": "Mutants Hunted",
+    "advancements.nether.kill_all_mutants.description": "Defeat one of every mutated monster",
+    
+    "advancements.nether.name_a_mutant.title": "Do You Intend to Keep This?",
+    "advancements.nether.name_a_mutant.description": "Use a name tag on a mutated monster",
+    
+    "advancements.nether.get_mutant_wither_skeleton_skull.title": "Spookier Scarier Skeleton",
+    "advancements.nether.get_mutant_wither_skeleton_skull.description": "Obtain a Wither Skeleton Champion's skull",
+    
+    "advancements.nether.get_all_mutant_wither_skeleton_armour.title": "Spooky Scary Suit",
+    "advancements.nether.get_all_mutant_wither_skeleton_armour.description": "Craft the full set of Wither Skeleton Champion Armour",
+    
+    "advancements.nether.get_wither_bomb.title": "Grim Grenade",
+    "advancements.nether.get_wither_bomb.description": "Craft a Wither Bomb using a Wither Skeleton Champion Skull",
+    
+    "advancements.nether.get_blazing_scimitar.title": "Searing Sabre",
+    "advancements.nether.get_blazing_scimitar.description": "Craft a Blazing Scimitar out of the remains of a Wither Skeleton Champion",
+    
+    "advancements.nether.get_mutant_disc_fragment.title": "8 More to go",
+    "advancements.nether.get_mutant_disc_fragment.description": "Get a Disc Fragment from a mutated monster",
+    
+    "advancements.nether.get_mutant_disc.title": "Mutant More Disc Collector",
+    "advancements.nether.get_mutant_disc.description": "Craft a Music Disc out of Disc Fragments from mutated monsters",
+    
+    "advancements.nether.get_all_mutant_discs.title": "Mutant More Discs Collected",
+    "advancements.nether.get_all_mutant_discs.description": "Craft all possible Music Discs out of Disc Fragments from mutated monsters",
+    
+    "advancements.nether.get_mutant_shulker_trap.title": "Not an Average Beartrap",
+    "advancements.nether.get_mutant_shulker_trap.description": "Craft some Shulker Traps out of a Monstrous Shulker Shell",
+    
+    "advancements.nether.get_mutant_shulker_shield.title": "A Shield That Shoots",
+    "advancements.nether.get_mutant_shulker_shield.description": "Craft a Monstrous Shulker Shield out of a Monstrous Shulker Shell",
+    
+    "advancements.nether.get_mutant_shulker_turret.title": "Triple Turret",
+    "advancements.nether.get_mutant_shulker_turret.description": "Craft a Shulker Turret out of two Monstrous Shulker Shells",
+    
+    "advancements.nether.get_heatstorm_generator.title": "Heart of the Heatstorm",
+    "advancements.nether.get_heatstorm_generator.description": "Construct a Heatstorm Generator using an Inferno Core",
+    
+    "advancements.nether.get_mutant_blaze_shields.title": "Blazing Barricade",
+    "advancements.nether.get_mutant_blaze_shields.description": "Craft some Inferno Shields out of an Inferno Core",
+    
+    "advancements.nether.use_checker_on_a_pet.title": "Daily Checkup",
+    "advancements.nether.use_checker_on_a_pet.description": "Use a minion mutant's checker to evaluate its stats",
+    
+    "advancements.nether.upgrade_rodling.title": "Protected Pal",
+    "advancements.nether.upgrade_rodling.description": "Use a Rodling Helmet or Rodling Shields to protect your new companion",
+    
+    "subtitles.entity.concoction_w.ambient": "Concoction W gurgles",
+    
+    "subtitles.entity.mutant_shulker_trap.idle": "Shulker Trap mumbles",
+    "subtitles.entity.mutant_shulker_trap.hurt": "Shulker Trap hurts",
+    "subtitles.entity.mutant_shulker_trap.death": "Shulker Trap dies",
+    "subtitles.entity.mutant_shulker_trap.trap": "Shulker Trap snaps",
+    "subtitles.entity.mutant_shulker_trap.vanish": "Shulker Trap transforms",
+    
+    "subtitles.entity.mutant_shulker.idle": "Monstrous Shulker grumbles",
+    "subtitles.entity.mutant_shulker.hurt": "Monstrous Shulker hurts",
+    "subtitles.entity.mutant_shulker.death": "Monstrous Shulker dies",
+    "subtitles.entity.mutant_shulker.teleport": "Monstrous Shulker teleports",
+    "subtitles.entity.mutant_shulker.anvil_crush": "Monstrous Shulker falls",
+    "subtitles.entity.mutant_shulker.bite": "Monstrous Shulker bites",
+    "subtitles.entity.mutant_shulker.shoot": "Monstrous Shulker shoots",
+    "subtitles.entity.mutant_shulker.open": "Monstrous Shulker emerges",
+    "subtitles.entity.mutant_shulker.close": "Monstrous Shulker retreats",
+    "subtitles.entity.mutant_shulker.prepare_flight": "Monstrous Shulker jumps",
+    "subtitles.entity.mutant_shulker.projectile_impact": "Monstrous Shulker Bullet explodes",
+    "subtitles.entity.mutant_shulker.roar": "Monstrous Shulker roars",
+    "subtitles.entity.mutant_shulker.shoot_trap": "Monstrous Shulker deploys trap",
+    "subtitles.entity.mutant_shulker.step": "Monstrous Shulker steps",
+    
+    "subtitles.item.mutant_shulker_shield.shoot": "Monstrous Shulker Shield rattles",
+    
+    "subtitles.entity.mutant_wither_skeleton.attack": "Wither Skeleton Champion slashes",
+    "subtitles.entity.mutant_wither_skeleton.bigjump_lava": "Wither Skeleton Champion leaps",
+    "subtitles.entity.mutant_wither_skeleton.bigjump": "Wither Skeleton Champion leaps",
+    "subtitles.entity.mutant_wither_skeleton.bigland": "Wither Skeleton Champion lands",
+    "subtitles.entity.mutant_wither_skeleton.death": "Wither Skeleton Champion shatters",
+    "subtitles.entity.mutant_wither_skeleton.doubleattack": "Wither Skeleton Champion smashes",
+    "subtitles.entity.mutant_wither_skeleton.fire_slash": "Fire Slash launched",
+    "subtitles.entity.mutant_wither_skeleton.hurt": "Wither Skeleton Champion hurt",
+    "subtitles.entity.mutant_wither_skeleton.idle": "Wither Skeleton Champion rattles",
+    "subtitles.entity.mutant_wither_skeleton.land_hit": "Wither Skeleton Champion lands hit",
+    "subtitles.entity.mutant_wither_skeleton.look": "Wither Skeleton Champion looks around",
+    "subtitles.entity.mutant_wither_skeleton.ribcrush": "Wither Skeleton Champion crushes",
+    "subtitles.entity.mutant_wither_skeleton.roar_short": "Wither Skeleton Champion roars",
+    "subtitles.entity.mutant_wither_skeleton.roar": "Wither Skeleton Champion roars",
+    "subtitles.entity.mutant_wither_skeleton.step_lava": "Wither Skeleton Champion steps",
+    "subtitles.entity.mutant_wither_skeleton.step": "Wither Skeleton Champion steps",
+    
+    "subtitles.entity.mutant_blaze.idle": "Inferno growls",
+    "subtitles.entity.mutant_blaze.hurt": "Inferno hurts",
+    "subtitles.entity.mutant_blaze.shieldbreak": "Inferno shield breaks",
+    "subtitles.entity.mutant_blaze.reshield": "Inferno shield reforms",
+    "subtitles.entity.mutant_blaze.pre_death": "Inferno dies",
+    "subtitles.entity.mutant_blaze.death": "Inferno explodes",
+    "subtitles.entity.mutant_blaze.rodshot": "Inferno shoots rods",
+    "subtitles.entity.mutant_blaze.rod_impact": "Inferno rod impacts",
+    "subtitles.entity.mutant_blaze.start_flying": "Inferno takes off",
+    "subtitles.entity.mutant_blaze.stun_start": "Inferno gets stunned",
+    "subtitles.entity.mutant_blaze.stun_shields_break": "Inferno shields break",
+    "subtitles.entity.mutant_blaze.stun_end": "Inferno wakes up and attacks",
+    "subtitles.entity.mutant_blaze.intro": "Inferno roars",
+    "subtitles.entity.mutant_blaze.flare": "Inferno charges attack",
+    "subtitles.entity.mutant_blaze.prepare_shoot": "Inferno prepares to shoot",
+    "subtitles.entity.mutant_blaze.shoot": "Inferno shoots",
+    
+    "subtitles.entity.mutant_shulker_turret.idle": "Shulker Turret hums",
+    "subtitles.entity.mutant_shulker_turret.hurt": "Shulker Turret hurts",
+    "subtitles.entity.mutant_shulker_turret.death": "Shulker Turret dies",
+    "subtitles.entity.mutant_shulker_turret.deploy": "Shulker Turret deploys",
+    "subtitles.entity.mutant_shulker_turret.crack": "Shulker Turret cracks",
+    "subtitles.entity.mutant_shulker_turret.repair": "Shulker Turret repaired",
+    
+    "subtitles.entity.rodling.idle": "Rodling breathes",
+    "subtitles.entity.rodling.idle_hostile": "Rodling breathes angrily",
+    "subtitles.entity.rodling.hurt": "Rodling hurts",
+    "subtitles.entity.rodling.death": "Rodling dies",
+    "subtitles.entity.rodling.charge_shot": "Rodling charges shot",
+    "subtitles.entity.rodling.shoot": "Rodling shoots",
+    "subtitles.entity.rodling.equip_armour": "Rodling equips armour",
+    "subtitles.entity.rodling.equip_shields": "Rodling equips shields",
+    "subtitles.entity.rodling.heal": "Rodling fueled",
+    "subtitles.entity.rodling.transform_soul": "Rodling transforms",
+    "subtitles.entity.rodling.transform_blaze": "Rodling transforms",
+    "subtitles.entity.rodling.regenerate_shield": "Rodling shield reforms",
+    "subtitles.entity.rodling.shield_break": "Rodling shield breaks",
+    
+    "subtitles.entity.mutant_blaze_shields.appear": "Inferno Shields ignite",
+    
+    "subtitles.entity.mutation_effect.successful_mutation": "Something mutates",
+    "subtitles.entity.mutation_effect.failed_mutation": "Something mutates",
+    
+    "subtitles.item.mutant_wither_skeleton_armour.equip": "Armour equipped",
+    
+    "subtitles.item.wither_bomb.deploy": "Wither Bomb deployed",
+    "subtitles.item.wither_bomb.open": "Wither Bomb opens",
+    "subtitles.item.wither_bomb.throw": "Wither Bomb flies",
+    
+    "subtitles.item.formula_y.land": "Formula Y sizzles",
+    
+    "subtitles.item.compound_z.land": "Compound Z crackles",
+    
+	"itemGroup.mutant_more": "Mutant More"
+}

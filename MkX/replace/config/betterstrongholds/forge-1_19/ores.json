@@ -1,0 +1,19 @@
+{
+  "oreChances": {
+    "entries": {
+      "minecraft:emerald_ore": 0.05,
+      "minecraft:diamond_ore": 0.05,
+      "minecraft:redstone_ore[lit=false]": 0.15,
+      "minecraft:gold_ore": 0.2,
+      "minecraft:lapis_ore": 0.15,
+      "galosphere:silver_ore": 0.15,
+      "minecraft:copper_ore": 0.15,
+      "minecraft:coal_ore": 0.2,
+      "create:zinc_ore": 0.2,
+      "sulfurpotassiummod:potassium_ore": 0.15,
+      "randomium:randomium_ore": 0.05,
+      "minecraft:iron_ore": 0.2
+    },
+    "defaultBlock": "minecraft:coal_ore"
+  }
+}
