@@ -1,8 +1,0 @@
-{
-  "type": "salt:salting",
-  "ingredients": [
-    {
-      "tag": ""
-    }
-  ]
-}
