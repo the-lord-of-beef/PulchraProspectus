@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alexsmobs:item/rainbow_jelly"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.6
+      },
+      "model": "eatinganimation:item/am_rainbow_jelly_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 1.2
+      },
+      "model": "eatinganimation:item/am_rainbow_jelly_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 1.8
+      },
+      "model": "eatinganimation:item/am_rainbow_jelly_eating_2"
+    }
+  ]
+}
