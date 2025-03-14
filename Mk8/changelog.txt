@@ -1,0 +1,61 @@
+- Removed problematic mods:
+	OptiFine 1.8.x/1.19.x
+	Optifine 1.19.2 Crash Fix
+	Stalwart Dungeons
+	Monster Plus
+
+These mods have been made obsolete by mods that accomplish the same things, but result in less problems.
+
+- Added new mods:
+	Cave Spider Spawn
+	Damage Tilt
+	Easier Sleeping
+	Embeddium
+	Equipment Compare [Neo/Forge]
+	FerriteCore ((Neo)Forge)
+	Iceberg [Neo/Forge]
+	Inventory Profiles Next
+	Iris/Oculus & GeckoLib Compat
+	Kotlin for Forge
+	libIPN
+	Maxwell The Carryable Cat
+	Oculus
+	Pehkui
+	Vex Remodel
+	Collective
+
+Compared to the total new mods recently added, these are some of the most unremarkable. This is so the server can be updated without needing a restart.
+
+- Updated mod resources:
+	alexsmobs
+	aquamirae
+	cave_dweller
+	create
+	create_confectionery
+	crittersandcompanions
+	culinaryconstruct
+	cutehermitcrabs
+	eatinganimation
+	ecologics
+	enchantments_plus
+	endergetic
+	fishofthieves
+	galosphere
+	infernalexp
+	minecraft
+	obscure_api
+	phantasm
+	rottencreatures
+	simplefarming
+	treasure_music_discs
+	upgrade_aquatic
+	Fish of Thieves
+
+The main feature added with these resources is more eating animations. This is in addition to a slew of other changes, which is at the moment too long to easily list.
+
+The Pulchra Customs resource pack has been moved to the required resources folder, and removed the original resource packs folder from the pack. This will enable the resources by default.
+
+Removed the SEUS Renewed Shaders. These have been replaced with the Complementary Unbound shaders. These fix a variety of visual issues present in SEUS shaders and Optifine, and in my opinion they are more beautiful.
+
+
+There are many, many more changes in the works. This version will likely have problems, so please keep filing suggestions in the Feedback document.

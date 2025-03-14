@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/ga_golden_lichen_cordyceps_eating_1"
+  }
+}

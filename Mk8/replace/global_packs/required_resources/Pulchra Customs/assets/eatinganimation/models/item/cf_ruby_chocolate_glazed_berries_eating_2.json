@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/cf_ruby_chocolate_glazed_berries_eating_2"
+  }
+}

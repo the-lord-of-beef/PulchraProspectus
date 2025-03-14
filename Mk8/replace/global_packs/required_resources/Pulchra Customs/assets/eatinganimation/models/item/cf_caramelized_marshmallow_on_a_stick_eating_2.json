@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/cf_caramelized_marshmallow_on_a_stick_eating_2"
+  }
+}

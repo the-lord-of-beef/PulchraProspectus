@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_confectionery:items/marshmallow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.1
+      },
+      "model": "eatinganimation:item/cf_marshmallow_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.2
+      },
+      "model": "eatinganimation:item/cf_marshmallow_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.3
+      },
+      "model": "eatinganimation:item/cf_marshmallow_eating_2"
+    }
+  ]
+}

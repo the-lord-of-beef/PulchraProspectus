@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/cf_bar_of_white_chocolate_eating_0"
+  }
+}
