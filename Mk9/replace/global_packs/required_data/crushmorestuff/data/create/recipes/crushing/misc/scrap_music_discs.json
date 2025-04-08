@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "minecraft:music_discs"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:flint"
+    },
+	{
+      "count": 4,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

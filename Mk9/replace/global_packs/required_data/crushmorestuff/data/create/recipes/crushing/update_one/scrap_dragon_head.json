@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_head"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:obsidian"
+    },
+	{
+      "chance": 0.5,
+      "count": 3,
+      "item": "minecraft:obsidian"
+    },
+	{
+      "count": 1,
+      "item": "minecraft:dragon_breath"
+    }
+  ]
+}

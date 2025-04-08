@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:soul_lantern",
+    "minecraft:lantern",
+    "minecraft:iron_shovel",
+    "minecraft:detector_rail",
+    "minecraft:chain",
+    "minecraft:activator_rail",
+    "create:chute"
+  ]
+}

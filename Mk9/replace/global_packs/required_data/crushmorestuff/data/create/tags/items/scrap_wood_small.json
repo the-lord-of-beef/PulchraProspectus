@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ladder",
+    "minecraft:bowl",
+    "minecraft:hanging_roots",
+    "minecraft:wooden_shovel",
+    "#minecraft:wooden_buttons",
+    "#minecraft:wooden_fences",
+    "#minecraft:wooden_stairs",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_pressure_plates"
+  ]
+}

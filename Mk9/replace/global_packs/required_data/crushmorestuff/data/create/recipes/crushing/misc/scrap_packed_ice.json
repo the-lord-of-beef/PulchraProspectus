@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:packed_ice"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 9,
+      "item": "minecraft:ice"
+    }
+  ]
+}

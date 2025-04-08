@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:furnace_minecart"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:cobblestone"
+    }
+  ]
+}

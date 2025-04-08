@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_ink_sac"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 2,
+      "item": "minecraft:cyan_dye"
+    },
+	{
+      "chance": 0.1,
+      "item": "minecraft:glowstone_dust"
+    }
+  ]
+}

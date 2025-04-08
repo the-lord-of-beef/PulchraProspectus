@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:netherite_diving_helmet"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "chance": 0.5,
+      "count": 3,
+      "item": "create:copper_nugget"
+    },
+	{
+      "count": 1,
+      "item": "create_crush_everything:netherite_shard"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:stonecutter"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "minecraft:iron_nugget"
+    }
+  ]
+}

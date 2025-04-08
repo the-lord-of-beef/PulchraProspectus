@@ -1,0 +1,30 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "pulchra:features",
+  "description": "this should have an apple",
+  "hide_while_locked": false,
+  "icon": "minecraft:apple",
+  "name": "frickin page",
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "",
+      "item": {
+        "item": "minecraft:apple"
+      },
+      "text": "With some text",
+      "title": "A apple"
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "pulchra:features/recipe",
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "x": -10,
+  "y": 5
+}

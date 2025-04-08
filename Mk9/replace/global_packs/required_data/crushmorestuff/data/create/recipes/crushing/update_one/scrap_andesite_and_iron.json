@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create:scrap_andesite_and_iron"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:iron_nugget"
+    }
+  ]
+}

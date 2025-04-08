@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:netherite_diving_boots"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "chance": 0.5,
+      "count": 3,
+      "item": "create:copper_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "create:andesite_alloy"
+    },
+	{
+      "count": 1,
+      "item": "create_crush_everything:netherite_shard"
+    }
+  ]
+}

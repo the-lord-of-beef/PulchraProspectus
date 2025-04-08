@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 2,
+      "item": "create_crush_everything:diamond_shard"
+    }
+  ]
+}

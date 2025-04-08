@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "snazzybanana899",
+      "uniqueId": "2a9bd837-8835-4626-8a97-c07aa8fc927a"
+    },
+    "time": 1743042189288,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ntnHxH1vLW"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "snazzybanana899",
+      "uniqueId": "2a9bd837-8835-4626-8a97-c07aa8fc927a"
+    },
+    "time": 1743042005976,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/zAd7O3D3Jm"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "snazzybanana899",
+      "uniqueId": "2a9bd837-8835-4626-8a97-c07aa8fc927a"
+    },
+    "time": 1742364834047,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VS8U4vxtOj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "snazzybanana899",
+      "uniqueId": "2a9bd837-8835-4626-8a97-c07aa8fc927a"
+    },
+    "time": 1742364751209,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\beeflord\\curseforge\\minecraft\\Instances\\the one\\config\\spark\\heap-2025-03-18_23.12.19.hprof"
+    }
+  }
+]

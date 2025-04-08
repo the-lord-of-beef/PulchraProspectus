@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:brewing_stand"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:blaze_powder"
+    }
+  ]
+}

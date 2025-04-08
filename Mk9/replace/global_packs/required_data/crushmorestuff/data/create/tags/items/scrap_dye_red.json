@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nether_wart",
+    "minecraft:crimson_fungus",
+    "minecraft:weeping_vines",
+    "minecraft:sweet_berries",
+    "minecraft:crimson_roots"
+  ]
+}

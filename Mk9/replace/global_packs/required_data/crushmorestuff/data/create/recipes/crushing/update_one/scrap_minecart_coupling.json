@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:minecart_coupling"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "create:andesite_alloy"
+    }
+  ]
+}

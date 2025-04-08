@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:item"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 1,
+      "item": "minecraft:item"
+    }
+  ]
+}

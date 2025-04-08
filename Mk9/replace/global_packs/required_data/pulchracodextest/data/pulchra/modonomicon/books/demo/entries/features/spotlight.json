@@ -1,0 +1,30 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "pulchra:features",
+  "description": "A spotlight page",
+  "hide_while_locked": false,
+  "icon": "minecraft:beacon",
+  "name": "Spotlight",
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "",
+      "item": {
+        "item": "minecraft:apple"
+      },
+      "text": "With some text",
+      "title": "An apple!"
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "pulchra:features/recipe",
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "x": -14,
+  "y": 1
+}

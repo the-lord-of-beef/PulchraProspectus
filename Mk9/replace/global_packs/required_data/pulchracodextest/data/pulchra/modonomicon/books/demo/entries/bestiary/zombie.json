@@ -1,0 +1,31 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "pulchra:bestiary",
+  "description": "",
+  "hide_while_locked": false,
+  "icon": "minecraft:rotten_flesh",
+  "name": "Zombies",
+  "pages": [
+    {
+      "type": "modonomicon:entity",
+      "anchor": "",
+      "default_rotation": -45.0,
+      "entity_id": "minecraft:zombie",
+      "name": "Zombies",
+      "offset": 0.0,
+      "rotate": true,
+      "scale": 1.0,
+      "text": "Zombies are one of, if not the most common monster of the Overworld. The origins"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "of zombies is speculatory, but it’s known that zombies are the result of a horrible disease. The disease takes control of a dead victim’s body, causing them to reanimate. The infected individual then hunts others, spreading the disease. Thankfully, most modern adventurers have a latent immunity to the disease."
+    }
+  ],
+  "x": -18,
+  "y": -15
+}

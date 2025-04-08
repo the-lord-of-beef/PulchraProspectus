@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:chest_minecart"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:stick"
+    },
+    {
+      "chance": 0.5,
+      "count": 4,
+      "item": "minecraft:stick"
+    }
+  ]
+}

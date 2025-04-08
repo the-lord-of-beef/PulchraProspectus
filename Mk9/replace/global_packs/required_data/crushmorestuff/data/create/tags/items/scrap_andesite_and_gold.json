@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create:weighted_ejector",
+    "create:cuckoo_clock"
+  ]
+}

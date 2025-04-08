@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:map"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:compass"
+    },
+	{
+      "count": 2,
+      "item": "minecraft:paper"
+    },
+	{
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:paper"
+    }
+  ]
+}

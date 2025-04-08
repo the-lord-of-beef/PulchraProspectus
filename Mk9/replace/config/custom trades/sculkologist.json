@@ -1,0 +1,462 @@
+{
+  "profession": "spacecatcustomprofessions:sculkologist",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:sclk_convert_emeralds"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:sclk_convert_echo_shards"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:echo_log",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:sclk_sell_echo_logs"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:grime_brick",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:sclk_sell_grime_bricks"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:sculk_sensor",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:sclk_buy_sculk_sensor"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:sculk",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:sclk_buy_sculk"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:echo_sapling",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:sclk_sell_echo_saplings"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:sculk_bone",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:sclk_sell_sculk_bones"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "deeperdarker:soul_dust",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:sclk_buy_soul_dust"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "deeperdarker:sculk_gleam",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:sclk_buy_sculk_gleam"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:gloomslate",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:sclk_sell_gloomslate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "blighted_beasts:sculk_pearl",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:sclk_buy_sculk_pearl"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:ancient_vase",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:sclk_sell_ancient_vase"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "composite_material:strong_will",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:sclk_buy_sculk_bottle"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:sculk_transmitter",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:sclk_sell_sculk_transmitter"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:skreecher_soul",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:sclk_sell_skreecher_soul"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:sculk_shrieker",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:sclk_sell_sculk_shrieker"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "deeperdarker:gloomy_cactus",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:sclk_buy_gloomy_cactuses"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "deeperdarker:heart_of_the_deep",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:sclk_buy_heart_of_the_deep"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "deeperdarker:warden_carapace",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:sclk_buy_warden_carapace"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "composite_material:warden_hand",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:sclk_buy_warden_hand"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "deeperdarker:soul_crystal",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:sclk_buy_soul_crystal"
+    },
+    {
+      "offer": {
+        "itemKey": "deeperdarker:reinforced_echo_shard",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:sclk_reinforce_echo_shards"
+    },
+    {
+      "offer": {
+        "itemKey": "composite_material:sonic_boom_wand",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:sclk_sell_sonic_boom_wand"
+    },
+    {
+      "offer": {
+        "itemKey": "blighted_beasts:beckon",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:echo_shard",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:sclk_sell_beckon"
+    }
+  ]
+}

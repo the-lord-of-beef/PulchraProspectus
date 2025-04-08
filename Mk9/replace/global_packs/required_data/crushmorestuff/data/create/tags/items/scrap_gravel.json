@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cobblestone_wall",
+    "minecraft:infested_cobblestone",
+    "minecraft:cobblestone_stairs"
+  ]
+}

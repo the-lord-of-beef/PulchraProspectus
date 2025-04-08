@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 1,
+      "item": "minecraft:netherrack"
+    },
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:netherrack"
+    },
+	{
+      "chance": 0.05,
+      "count": 1,
+      "item": "minecraft:magma_cream"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 4,
+      "item": "create_crush_everything:feather_fluff"
+    }
+  ]
+}

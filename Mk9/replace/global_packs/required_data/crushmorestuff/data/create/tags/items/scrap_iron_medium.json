@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:shears",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_chestplate",
+    "minecraft:damaged_anvil",
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_boots",
+    "minecraft:iron_axe",
+    "minecraft:iron_hoe",
+    "minecraft:iron_sword",
+    "minecraft:iron_pickaxe",
+    "minecraft:bucket",
+    "minecraft:water_bucket",
+    "minecraft:milk_bucket",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:iron_door"
+  ]
+}

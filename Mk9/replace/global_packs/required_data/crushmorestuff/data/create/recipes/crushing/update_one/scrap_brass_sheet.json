@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:brass_sheet"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "create:brass_nugget"
+    },
+	{
+      "chance": 0.5,
+      "count": 3,
+      "item": "create:brass_nugget"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:writable_book"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 1,
+      "item": "minecraft:paper"
+    },
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:paper"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:leather"
+    },
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:feather"
+    },
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:ink_sac"
+    }
+  ]
+}

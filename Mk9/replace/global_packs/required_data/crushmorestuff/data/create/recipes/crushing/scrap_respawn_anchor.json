@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:respawn_anchor"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:crying_obsidian"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:crying_obsidian"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.5,
+      "count": 4,
+      "item": "minecraft:glowstone_dust"
+    }
+  ]
+}

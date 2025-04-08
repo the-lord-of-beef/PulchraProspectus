@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_block"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 9,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

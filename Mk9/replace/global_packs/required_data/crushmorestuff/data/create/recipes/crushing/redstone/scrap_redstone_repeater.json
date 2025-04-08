@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:repeater"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:stone"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

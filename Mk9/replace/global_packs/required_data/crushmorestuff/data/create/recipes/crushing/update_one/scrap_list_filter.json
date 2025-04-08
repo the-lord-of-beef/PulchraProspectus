@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:filter"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:string"
+    }
+  ]
+}

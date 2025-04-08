@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:attribute_filter"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "create:brass_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:stick"
+    }
+  ]
+}

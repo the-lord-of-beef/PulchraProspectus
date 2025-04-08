@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:golden_carrot",
+    "minecraft:powered_rail",
+    "minecraft:glistering_melon_slice",
+    "minecraft:golden_shovel",
+    "create:goggles"
+  ]
+}

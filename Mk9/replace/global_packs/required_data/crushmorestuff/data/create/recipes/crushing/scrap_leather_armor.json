@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create:scrap_leather_armor"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:leather"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:leather"
+    }
+  ]
+}

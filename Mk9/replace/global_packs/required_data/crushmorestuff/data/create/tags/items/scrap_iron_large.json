@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_leggings",
+    "minecraft:iron_helmet",
+    "minecraft:chipped_anvil",
+    "minecraft:minecart",
+    "minecraft:iron_chestplate",
+    "minecraft:hopper",
+    "minecraft:cauldron",
+    "minecraft:iron_boots"
+  ]
+}

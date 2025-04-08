@@ -1,0 +1,622 @@
+{
+  "profession": "minecraft:leatherworker",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:leather",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:lthr_buy_leather"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "supplementaries:flax",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:lthr_buy_flax"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "simplefarming:kenaf_fiber",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:lthr_buy_kenaf"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:rabbit_hide",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:lthr_buy_rabbit_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:scute",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:lthr_buy_scutes"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "comforts:sleeping_bag_white",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_orange",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_magenta",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_light_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_yellow",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_lime",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_pink",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_light_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_cyan",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_purple",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_brown",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_green",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_red",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_black",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:lthr_sell_bedroll"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:white_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:orange_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:magenta_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:light_blue_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:yellow_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:lime_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:pink_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:gray_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:light_gray_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:cyan_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:purple_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:blue_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:brown_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:green_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:red_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:black_dye",
+          "amount": 12
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:lthr_sell_dyes_1"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:shears",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:lthr_sell_shears"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_helmet",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:lthr_sell_leather_helmet"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_leggings",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:lthr_sell_leather_leggings"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_horse_armor",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:lthr_sell_leather_horse_armor"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:white_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:orange_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:magenta_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:light_blue_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:yellow_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:lime_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:pink_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:gray_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:light_gray_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:cyan_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:purple_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:blue_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:brown_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:green_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:red_dye",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:black_dye",
+          "amount": 12
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:lthr_sell_dyes_2"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:soap",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:lthr_sell_soap"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:rope",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:lthr_sell_rope"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_chestplate",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:lthr_sell_leather_chestplate"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_boots",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:lthr_sell_leather_boots"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "simplefarming:cotton",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:lthr_buy_cotton"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bucket",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:lthr_sell_bucket"
+    },
+    {
+      "offer": {
+        "itemKey": "environmental:thief_hood",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:lthr_sell_thief_hood"
+    },
+    {
+      "offer": {
+        "itemKey": "environmental:yak_pants",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:lthr_sell_yak_pants"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:saddle",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:lthr_sell_saddle"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "alexsmobs:crocodile_scute",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:lthr_buy_crocodile_scutes"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "alexsmobs:kangaroo_hide",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:lthr_buy_kangaroo_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lead",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:lthr_sell_lead"
+    }
+  ]
+}

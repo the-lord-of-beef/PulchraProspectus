@@ -1,0 +1,35 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "pulchra:features",
+  "description": "An entity page",
+  "hide_while_locked": false,
+  "icon": "minecraft:spider_eye",
+  "name": "Entity!",
+  "pages": [
+    {
+      "type": "modonomicon:entity",
+      "anchor": "",
+      "default_rotation": -45.0,
+      "entity_id": "minecraft:ender_dragon",
+      "name": "The Dragon",
+      "offset": 0.0,
+      "rotate": true,
+      "scale": 0.5,
+      "text": ""
+    },
+    {
+      "type": "modonomicon:entity",
+      "anchor": "",
+      "default_rotation": -45.0,
+      "entity_id": "minecraft:spider",
+      "name": "",
+      "offset": 0.0,
+      "rotate": true,
+      "scale": 1.0,
+      "text": "A spider!"
+    }
+  ],
+  "x": 1,
+  "y": -3
+}

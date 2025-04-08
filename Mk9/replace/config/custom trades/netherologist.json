@@ -1,0 +1,457 @@
+{
+  "profession": "spacecatcustomprofessions:netherologist",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:nthr_convert_emeralds"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:nthr_convert_soul_quartz"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:hoglin_hide",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:nthr_buy_hoglin_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:gold_ingot",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:nthr_buy_gold"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:cooked_hoglin",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:nthr_sell_cooked_hoglin"
+    },
+    {
+      "offer": {
+        "itemKey": "gardens_of_the_dead:whistlecane",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:nthr_sell_whistlecane"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:sludge_brick",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:nthr_sell_sludge_bricks"
+    },
+    {
+      "offer": {
+        "itemKey": "netherdepthsupgrade:crimson_kelp_block",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:nthr_sell_crimson_kelp"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:shroomlight",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:nthr_sell_shroomlight"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "netherdepthsupgrade:searing_cod",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:nthr_buy_searing_cod"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:nether_brick",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:nthr_sell_nether_bricks"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "alexsmobs:blood_sac",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:nthr_buy_blood_sacs"
+    },
+    {
+      "offer": {
+        "itemKey": "rat_attack:nether_rat",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:nthr_sell_nether_rat"
+    },
+    {
+      "offer": {
+        "itemKey": "netherdepthsupgrade:lava_glass",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:nthr_sell_lava_glass"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:ectoplasm",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:nthr_sell_ectoplasm"
+    },
+    {
+      "offer": {
+        "itemKey": "create:rose_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:nthr_sell_rose_quartz"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "netherdepthsupgrade:fortress_grouper_plate",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:nthr_buy_fortress_grouper_plate"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "supplementaries:ash",
+        "amount": 64,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:nthr_buy_ash"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:fire_charge",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:nthr_sell_fire_charges"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:magma_cream",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:nthr_sell_magma_cream"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:blaze_powder",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:nthr_buy_blaze_powder"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "alexsmobs:straddlite",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:nthr_buy_straddlite"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "alexsmobs:bone_serpent_tooth",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:nthr_buy_bone_serpent_teeth"
+    },
+    {
+      "offer": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:nether_star",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:nthr_buy_nether_star"
+    },
+    {
+      "offer": {
+        "itemKey": "netheroverhaul:fungus_stew",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "nourished_nether:soul_quartz",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:nthr_sell_fungus_stew"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:cartography_table"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:stick"
+    },
+	{
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:stick"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:paper"
+    }
+  ]
+}

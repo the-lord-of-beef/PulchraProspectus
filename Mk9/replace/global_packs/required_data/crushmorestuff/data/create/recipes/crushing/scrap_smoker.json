@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:smoker"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 8,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:cobblestone"
+    }
+  ]
+}

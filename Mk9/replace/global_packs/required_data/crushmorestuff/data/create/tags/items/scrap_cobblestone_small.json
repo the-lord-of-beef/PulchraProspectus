@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stone_pressure_plate",
+    "minecraft:stone",
+    "minecraft:cobbled_deepslate",
+    "minecraft:infested_cracked_stone_bricks",
+    "minecraft:infested_stone_bricks",
+    "minecraft:stone_bricks",
+    "minecraft:lever",
+    "minecraft:smooth_stone",
+    "minecraft:stone_brick_wall",
+    "minecraft:stone_button",
+    "minecraft:cracked_stone_bricks",
+    "minecraft:stone_shovel",
+    "minecraft:stone_brick_stairs",
+    "minecraft:infested_stone",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:infested_chiseled_stone_bricks"
+  ]
+}

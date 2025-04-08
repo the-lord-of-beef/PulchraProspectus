@@ -1,0 +1,34 @@
+#Whether the Seer can aggro onto the player when within range
+seer_detects = false
+#Whether the Seer can affect non-sculk mobs
+seer_affects_non_sculk = true
+#Whether the Sculk Pearl causes infighting between mobs
+sculk_pearl_infighting = true
+#How long (in ticks) should the Sculk Pearl's confusion effect last?
+#Range: > 0
+sculk_pearl_confusion_duration = 300
+#Chance that an Apparition spawns when a mob dies near a Sculk Catalyst
+#Range: 0.0 ~ 1.0
+catalyst_apparition_chance = 0.2
+#Chance that an Apparition spawns when a mob dies near a Bloater
+#Range: 0.0 ~ 1.0
+bloater_apparition_chance = 0.1
+#Chance that an Apparition spawns when a bloater explodes
+#Range: 0.0 ~ 1.0
+bloater_explode_apparition_chance = 0.375
+#Chance that an Apparition spawns every tick that the player has the Sculk Sickness (Only used for compatibility, multiplied by stage of sickness)
+#Range: 0.0 ~ 1.0
+sickness_apparition_chance = 2.0E-4
+#Chance that killing an Apparition reduces Sculk Sickness (Only used for compatibility)
+#Range: 0.0 ~ 1.0
+sickness_apparition_heal_chance = 0.1
+#Whether the bloater should attack all mobs or just players
+bloaters_attack_all_mobs = false
+#Whether the skitter should attack all mobs or just players
+skitters_attack_all_mobs = true
+#Aggro range of the Beckon's screech
+#Range: 0 ~ 200
+beckon_range = 12
+#Whether the Beckon should distract only Sculk mobs (instead of all mobs)
+beckon_distracts_only_sculk = false
+

@@ -1,0 +1,16 @@
+
+
+
+
+profile Saved activate HOT5
+	HOT1
+		"upgrade_aquatic:driftwood_sign"
+	HOT2
+		"upgrade_aquatic:river_sign"
+	HOT3
+		"endergetic:poise_sign"
+	HOT4
+		"minecraft:crimson_sign"
+	HOT5
+		"minecraft:warped_sign"
+

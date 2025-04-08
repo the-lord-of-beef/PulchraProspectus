@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:whisk"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 18,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 9,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "create:andesite_alloy"
+    }
+  ]
+}

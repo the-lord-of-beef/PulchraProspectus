@@ -1,0 +1,108 @@
+
+#AllaySteel
+[allaySteel]
+	#Define if Allay Steel Tools can deal range attack.
+	allayAttackSpec = true
+	#Define if Allay Steel Tools can dig in range.
+	allayBreakSpec = true
+	#Define the max area attack range of Allay Steel Tools.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	allayAttackRange = 14.0
+	#Define the max area break range of Allay Steel Tools.
+	#Range: > 0
+	allayBreakRange = 14
+	#Define the max area break amount of Allay Steel Tools.
+	#Range: > 0
+	allayBreakLimit = 64
+	#Define the heal amount in each second when player equipped full set.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	allayHealthHeal = 2.0
+
+#Disc
+[disc]
+	#Define the damage multiple rate of Disc Axe.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discAxeBase = 500.0
+	#Define the base chance to get special drops for Disc Sword.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discSwordBase = 10.0
+	#Define the extra chance to get special drops for Disc Sword by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discSwordEnch = 5.0
+	#Define the extra chance to get special drops for Disc Sword by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	discPickaxeEnch = 5.0
+
+#DungeonSteel
+[dungeonSteel]
+	#Define if Dungeon Steel Axe can generate special drops.
+	dungeonAxeSpec = true
+	#Define if Dungeon Steel Sword can generate special drops.
+	dungeonSwordSpec = true
+	#Define the base chance to get special drops for Dungeon Axe.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonAxeBase = 10.0
+	#Define the extra chance to get special drops for Dungeon Axe by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonAxeEnch = 15.0
+	#Define the base chance to get special drops for Dungeon Sword.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonSwordBase = 10.0
+	#Define the extra chance to get special drops for Dungeon Sword by enchantment each level.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonSwordEnch = 5.0
+	#Define the extra damage of Dungeon Hammer per block.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	dungeonHammerMulti = 3.0
+
+#Echoium
+[echoium]
+	#Define the extra damage dealt by Echoium Tools based on the percentage of target's armor value.
+	#Range: > 0
+	echoiumExtraDamage = 50
+	#Define the max extra damage dealt by Echoium Tools, 0 means no limitation.
+	#Range: > 0
+	echoiumExtraLimit = 0
+	#Define if player can stop Warden spawning when player equipped full set.
+	echoiumStopSpawn = true
+
+#Etherite
+[etherite]
+	#Define the extra damage dealt by Etherite Tools based on the percentage of target's lost Health.
+	#Range: > 0
+	etheriteExtraDamage = 25
+	#Define the max extra damage dealt by Etherite Tools, 0 means no limitation.
+	#Range: > 0
+	etheriteExtraLimit = 0
+	#Define the heal amount in each second when player equipped full set.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	etheriteHealthHeal = 1.0
+	#Define if player can get the creative flight ability when player equipped full set.
+	etheriteFlight = false
+
+#MagicItems
+[magicItems]
+	#Define the amount of damage can be repaired by Obsidian Steel Nugget.
+	#Range: > 0
+	nuggetMaxRepair = 100
+	#Define the max extra level which Reinforce Book can upgrade.
+	#Range: > 0
+	bookMaxReinforce = 4
+
+#Misc
+[misc]
+	#Define the chance of converting Dungeon Steel Ingot.
+	#Range: 0 ~ 100
+	dungeonChance = 30
+	#Define the cool-down of Totem Of Unbreaking.
+	#Range: > 0
+	totemCooldown = 1000
+	#Define the damage of Sonic Boom Wand.
+	#Range: > 0
+	sonicDamage = 10
+	#Define the max attack range of Sonic Boom Wand.
+	#Range: > 0
+	sonicLength = 20
+	#Define if Sonic Boom Wand can destroy dropped items.
+	sonicDestroy = false
+

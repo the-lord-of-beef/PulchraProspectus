@@ -1,0 +1,28 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:blaze_burner"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 3,
+      "item": "minecraft:blaze_powder"
+    },
+	{
+      "chance": 0.5,
+      "count": 3,
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "count": 1,
+      "item": "create:cinder_flour"
+    },
+    {
+      "count": 9,
+      "item": "minecraft:iron_nugget"
+    }
+  ]
+}

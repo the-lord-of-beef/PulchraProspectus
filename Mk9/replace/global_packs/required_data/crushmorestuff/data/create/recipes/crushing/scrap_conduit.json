@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:conduit"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:nautilus_shell"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:nautilus_shell"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:heart_of_the_sea"
+    }
+  ]
+}

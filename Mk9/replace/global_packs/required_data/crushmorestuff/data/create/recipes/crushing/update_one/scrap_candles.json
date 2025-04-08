@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "minecraft:candles"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:string"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:honeycomb"
+    }
+  ]
+}

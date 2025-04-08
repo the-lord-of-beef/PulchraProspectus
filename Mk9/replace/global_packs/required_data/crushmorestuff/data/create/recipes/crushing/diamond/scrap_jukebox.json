@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:jukebox"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:stick"
+    },
+	{
+      "chance": 0.5,
+      "count": 4,
+      "item": "minecraft:stick"
+    },
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "create_crush_everything:diamond_shard"
+    }
+  ]
+}

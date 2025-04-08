@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:barrel",
+    "minecraft:chest",
+    "#minecraft:boats",
+    "minecraft:campfire",
+    "minecraft:soul_campfire"
+  ]
+}

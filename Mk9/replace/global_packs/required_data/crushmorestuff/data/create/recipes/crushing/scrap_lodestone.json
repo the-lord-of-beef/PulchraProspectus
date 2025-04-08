@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:lodestone"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:cobblestone"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "create_crush_everything:netherite_shard"
+    }
+  ]
+}

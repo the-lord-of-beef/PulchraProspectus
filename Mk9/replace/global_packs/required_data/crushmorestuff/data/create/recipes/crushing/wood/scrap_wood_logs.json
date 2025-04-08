@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 8,
+      "item": "minecraft:stick"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:stick"
+    }
+  ]
+}

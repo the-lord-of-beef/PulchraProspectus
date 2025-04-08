@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:enchanted_book"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 1,
+      "item": "minecraft:paper"
+    },
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:paper"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:leather"
+    }
+  ]
+}

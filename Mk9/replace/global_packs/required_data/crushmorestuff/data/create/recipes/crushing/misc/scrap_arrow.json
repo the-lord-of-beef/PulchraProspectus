@@ -1,0 +1,16 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create:scrap_arrows"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "chance": 0.25,
+      "count": 1,
+      "item": "create_crush_everything:feather_fluff"
+    }
+  ]
+}

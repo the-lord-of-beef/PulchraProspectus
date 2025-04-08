@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "chance": 0.75,
+      "item": "minecraft:sugar"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:zombie_head"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:rotten_flesh"
+    },
+	{
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:rotten_flesh"
+    },
+	{
+      "count": 6,
+      "item": "minecraft:bone_meal"
+    },
+	{
+      "chance": 0.5,
+      "count": 6,
+      "item": "minecraft:bone_meal"
+    }
+  ]
+}

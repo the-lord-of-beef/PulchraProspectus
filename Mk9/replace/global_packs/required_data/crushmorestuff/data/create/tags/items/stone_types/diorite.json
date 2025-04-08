@@ -1,0 +1,29 @@
+{
+  "values": [
+    "create:cut_diorite",
+    "create:cut_diorite_brick_slab",
+    "create:cut_diorite_slab",
+    "create:polished_cut_diorite_slab",
+    "create:small_diorite_brick_slab",
+    "create:cut_diorite_stairs",
+    "create:cut_diorite_wall",
+    "create:polished_cut_diorite",
+    "create:polished_cut_diorite_stairs",
+    "create:polished_cut_diorite_wall",
+    "create:cut_diorite_bricks",
+    "create:cut_diorite_brick_stairs",
+    "create:cut_diorite_brick_wall",
+    "create:small_diorite_bricks",
+    "create:small_diorite_brick_stairs",
+    "create:small_diorite_brick_wall",
+    "create:layered_diorite",
+    "create:diorite_pillar",
+    "minecraft:diorite_slab",
+    "minecraft:diorite_stairs",
+    "minecraft:diorite_wall",
+    "minecraft:polished_diorite",
+    "minecraft:polished_diorite_slab",
+    "minecraft:polished_diorite_stairs",
+    "minecraft:diorite"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "create:gearbox",
+    "create:vertical_gearbox",
+    "create:clutch",
+    "create:gearshift",
+    "create:encased_chain_drive",
+    "create:adjustable_chain_gearshift",
+    "create:millstone",
+    "create:mechanical_bearing",
+    "create:sticky_mechanical_piston",
+    "create:mechanical_piston",
+    "create:stressometer",
+    "create:contraption_controls",
+    "create:depot",
+    "create:andesite_casing",
+    "create:hand_crank",
+    "create:mechanical_bearing"
+  ]
+}

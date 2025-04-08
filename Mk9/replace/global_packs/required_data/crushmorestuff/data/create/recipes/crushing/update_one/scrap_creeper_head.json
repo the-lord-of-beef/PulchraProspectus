@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:creeper_head"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:green_dye"
+    },
+	{
+      "count": 3,
+      "item": "minecraft:lime_dye"
+    },
+	{
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:gunpowder"
+    }
+  ]
+}

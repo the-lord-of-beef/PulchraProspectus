@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tripwire_hook",
+    "minecraft:rail",
+    "minecraft:flint_and_steel",
+    "minecraft:iron_bars"
+  ]
+}

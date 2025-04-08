@@ -1,0 +1,592 @@
+{
+  "profession": "minecraft:cartographer",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:paper",
+        "amount": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:crtg_buy_paper"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:map",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:crtg_sell_empty_map"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:ink_sac",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:crtg_buy_ink_sacs"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:glass_pane",
+        "amount": 11,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:crtg_buy_glass_panes"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:item_frame",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:crtg_sell_item_frames"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:white_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:orange_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:magenta_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:light_blue_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:yellow_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:lime_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:pink_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:gray_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:light_gray_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:cyan_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:purple_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:blue_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:brown_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:green_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:red_banner",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:black_banner",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:crtg_sell_banner"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:flag_white",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_orange",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_magenta",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_light_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_yellow",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_lime",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_pink",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_light_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_cyan",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_purple",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_brown",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_green",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_red",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flag_black",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:crtg_sell_flag"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:goat_horn",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:crtg_sell_goat_horn"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:slice_map",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 7,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:crtg_sell_slice_map"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lantern",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:crtg_sell_lantern"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:hourglass",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:crtg_sell_hourglass"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:glow_item_frame",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:crtg_sell_glow_item_frame"
+    },
+    {
+      "offer": {
+        "itemKey": "galosphere:warped_anchor",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:crtg_sell_warped_anchor"
+    },
+    {
+      "offer": {
+        "itemKey": "galosphere:barometer",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:crtg_sell_barometer"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:altimeter",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:crtg_sell_altimeter"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:compass",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:crtg_sell_compass"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:clock",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:crtg_sell_clock"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:globe",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:crtg_sell_globe"
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:flower_banner_pattern",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:creeper_banner_pattern",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:skull_banner_pattern",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:mojang_banner_pattern",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:crtg_sell_banner_pattern"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:antique_ink",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:crtg_sell_antique_ink"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:echolocator",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:crtg_sell_echolocator"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:globe_banner_pattern",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:crtg_sell_globe_banner_pattern"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:spyglass",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:crtg_sell_spyglass"
+    },
+    {
+      "offer": {
+        "itemKey": "waystones:sharestone",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:crtg_sell_sharestone"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lodestone",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 15,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:crtg_sell_lodestone"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:bee_nest"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 2,
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "minecraft:honeycomb"
+    }
+  ]
+}

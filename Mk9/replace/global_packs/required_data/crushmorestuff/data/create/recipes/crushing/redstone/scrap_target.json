@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:target"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:wheat"
+    },
+	{
+      "count": 2,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

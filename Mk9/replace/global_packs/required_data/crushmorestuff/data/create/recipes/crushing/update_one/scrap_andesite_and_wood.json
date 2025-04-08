@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create:scrap_andesite_and_wood"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "minecraft:stick"
+    }
+  ]
+}

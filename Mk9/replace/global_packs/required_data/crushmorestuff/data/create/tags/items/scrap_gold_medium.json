@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:golden_axe",
+    "minecraft:golden_hoe",
+    "minecraft:light_weighted_pressure_plate",
+    "minecraft:golden_sword",
+    "minecraft:golden_pickaxe"
+  ]
+}

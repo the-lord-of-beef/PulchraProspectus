@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_torch"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:stick"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

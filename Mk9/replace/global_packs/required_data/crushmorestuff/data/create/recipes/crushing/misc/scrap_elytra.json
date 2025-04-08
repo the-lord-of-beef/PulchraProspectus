@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:elytra"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:leather"
+    }
+  ]
+}

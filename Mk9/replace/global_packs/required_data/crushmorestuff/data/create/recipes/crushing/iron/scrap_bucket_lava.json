@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:lava_bucket"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 4,
+      "item": "minecraft:iron_nugget"
+    },
+	{
+      "chance": 0.5,
+      "count": 4,
+      "item": "minecraft:iron_nugget"
+    },
+	{
+      "count": 1,
+      "item": "minecraft:magma_block"
+    }
+  ]
+}

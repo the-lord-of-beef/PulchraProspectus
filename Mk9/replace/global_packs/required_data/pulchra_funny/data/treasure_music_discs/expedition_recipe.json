@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "treasure_music_discs:overseer"
+    },
+    {
+      "item": "infernalexp:music_disc_soul_spunk"
+    },
+    {
+      "item": "endergetic:music_disc_kilobyte"
+    },
+    {
+      "item": "minecraft:music_disc_pigstep"
+    },
+    {
+      "item": "treasure_music_discs:dragon"
+    },
+    {
+      "item": "takesapillage:bastille_blues_music_disc"
+    },
+    {
+      "item": "aquamirae:music_disc_horizon"
+    },
+    {
+      "item": "upgrade_aquatic:music_disc_atlantis"
+    },
+    {
+      "item": "treasure_music_discs:decay"
+    }
+  ],
+  "result": {
+    "item": "treasure_music_discs:expedition",
+    "count": 1
+  }
+}

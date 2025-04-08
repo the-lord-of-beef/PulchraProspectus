@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:crossbow"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:stick"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:string"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:iron_nugget"
+    }
+  ]
+}

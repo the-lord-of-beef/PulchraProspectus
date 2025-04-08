@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:dispenser"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:redstone"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "minecraft:string"
+    }
+  ]
+}

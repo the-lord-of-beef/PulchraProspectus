@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "minecraft:beds"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:stick"
+    },
+	{
+      "count": 1,
+      "item": "minecraft:string"
+    },
+	{
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:string"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"entity.minecraft.villager.spacecatcustomprofessions.emissary": "Emissary",
+	"entity.minecraft.villager.spacecatcustomprofessions.chef": "Chef",
+	"entity.minecraft.villager.spacecatcustomprofessions.demolitionist": "Demolitionist",
+	"entity.minecraft.villager.spacecatcustomprofessions.engineer": "Engineer",
+	"entity.minecraft.villager.spacecatcustomprofessions.barkeep": "Mixologist",
+	"entity.minecraft.villager.spacecatcustomprofessions.conductor": "Conductor",
+	"entity.minecraft.villager.spacecatcustomprofessions.enchanter": "Arcanist",
+	"entity.minecraft.villager.spacecatcustomprofessions.sculkologist": "Echologist",
+	"entity.minecraft.villager.spacecatcustomprofessions.netherologist": "Netherologist",
+	"entity.minecraft.villager.spacecatcustomprofessions.endologist": "Endologist",
+	"entity.minecraft.villager.spacecatcustomprofessions.florist": "Botanist",
+	"entity.minecraft.villager.spacecatcustomprofessions.weirdist": "Esoterist",
+	"entity.minecraft.villager.spacecatcustomprofessions.monsterexpert": "Monstrologist",
+	"entity.minecraft.villager.spacecatcustomprofessions.slabcultist": "Neo-Slabite",
+	"entity.minecraft.villager.spacecatcustomprofessions.jackofalltrades": "Factotum",
+	"entity.minecraft.villager.spacecatcustomprofessions.mayor": "Governer",
+	"entity.minecraft.villager.spacecatcustomprofessions.santa": "Jolly Trader",
+	"entity.minecraft.villager.spacecatcustomprofessions.miner": "Prospector",
+	"entity.minecraft.villager.spacecatcustomprofessions.ratmaster": "Ratmaster",
+	"entity.minecraft.villager.spacecatcustomprofessions.voidcultist": "Void Supplicant"
+}

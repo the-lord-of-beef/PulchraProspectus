@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:shield",
+    "minecraft:smithing_table",
+    "minecraft:trapped_chest"
+  ]
+}

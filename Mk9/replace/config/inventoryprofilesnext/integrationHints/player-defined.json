@@ -1,0 +1,9 @@
+{
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "top": -1
+            }
+        }
+    }
+}

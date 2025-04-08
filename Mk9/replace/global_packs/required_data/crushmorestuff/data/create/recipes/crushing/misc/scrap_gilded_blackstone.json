@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:gilded_blackstone"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:blackstone"
+    },
+	{
+      "count": 6,
+      "item": "minecraft:gold_nugget"
+    }
+  ]
+}

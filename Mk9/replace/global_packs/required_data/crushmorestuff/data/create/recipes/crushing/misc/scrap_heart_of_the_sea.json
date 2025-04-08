@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 8,
+      "item": "minecraft:prismarine_crystals"
+    },
+	{
+      "count": 8,
+      "item": "minecraft:lapis_lazuli"
+    },
+	{
+      "count": 8,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

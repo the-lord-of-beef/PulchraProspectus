@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:end_crystal"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:ender_eye"
+    }
+  ]
+}

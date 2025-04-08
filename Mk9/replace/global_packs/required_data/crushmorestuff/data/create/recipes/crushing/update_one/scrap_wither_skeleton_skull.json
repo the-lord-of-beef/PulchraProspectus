@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 6,
+      "item": "minecraft:bone_meal"
+    },
+	{
+      "chance": 0.5,
+      "count": 3,
+      "item": "minecraft:coal"
+    },
+	{
+      "chance": 0.5,
+      "count": 3,
+      "item": "create:cinder_flour"
+    }
+  ]
+}

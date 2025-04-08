@@ -1,0 +1,421 @@
+{
+  "profession": "spacecatcustomprofessions:endologist",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:endr_convert_emeralds"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:endr_convert_soul_quartz"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:bismuth_ingot",
+        "amount": 5,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:endr_buy_bismuth"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:ender_pearl",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:endr_buy_ender_pearls"
+    },
+    {
+      "offer": {
+        "itemKey": "alexsmobs:cosmic_cod",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:endr_sell_cosmic_cod"
+    },
+    {
+      "offer": {
+        "itemKey": "endergetic:bolloom_fruit",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:endr_sell_bolloom_fruit"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:elevibloom_seeds",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:endr_sell_elevibloom_seeds"
+    },
+    {
+      "offer": {
+        "itemKey": "endergetic:booflo_hide",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:endr_sell_booflo_hide"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:popped_chorus_fruit",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:endr_buy_popped_chorus_fruit"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "phantasm:putac_shroom",
+        "amount": 12,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:endr_buy_putac_shroom"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "phantasm:pream_berry",
+        "amount": 16,
+        "priceModifier": 0
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:endr_buy_pream_berry"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:springleaf",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:endr_sell_springleaves"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:end_rod",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:endr_sell_end_rods"
+    },
+    {
+      "offer": {
+        "itemKey": "phantasm:stardust",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:endr_sell_stardust"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "phantasm:stellium_ingot",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:endr_buy_stellium"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "phantasm:void_crystal_spike_tip",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:endr_buy_void_crystal_shards"
+    },
+    {
+      "offer": {
+        "itemKey": "endergetic:puffbug_bottle",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:endr_sell_puffbug"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:gas_jar",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:endr_sell_gas_jar"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 15,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:dragon_head",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:endr_buy_dragon_head"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:shulker_shell",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:endr_buy_shulker_shells"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:enderman_head",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:endr_sell_enderman_head"
+    },
+    {
+      "offer": {
+        "itemKey": "phantasm:chorus_fruit_salad",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 8,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:endr_sell_chorus_fruit_salad"
+    },
+    {
+      "offer": {
+        "itemKey": "enlightened_end:malachite",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "enlightened_end:depleted_irradium_bar",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:endr_buy_depleted_irradium"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_block"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "count": 12,
+      "item": "minecraft:sugar"
+    }
+  ]
+}
