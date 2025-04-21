@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "P": {
+      "item": "create:brass_sheet"
+    },
+    "S": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    " APA ",
+    "APSPA",
+    " APA "
+  ],
+  "result": {
+    "count": 1,
+    "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+  }
+}

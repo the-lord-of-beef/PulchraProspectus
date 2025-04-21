@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "trickytrialspaintingsplusmusic:music_disc_creator"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:water",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+        },
+        [
+          {
+            "item": "create:crushed_raw_zinc"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+        }
+      ],
+      "results": [
+        {
+          "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "trickytrialspaintingsplusmusic:music_disc_creator_music_box"
+  }
+}

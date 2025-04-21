@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "eatinganimation:item/ie_blindsight_tongue_stew_eating_0"
-  }
-}
