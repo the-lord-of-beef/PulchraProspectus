@@ -1,0 +1,100 @@
+[
+  {
+    "mob": "realmrpg_creep:halloweed",
+    "block": "minecraft:pumpkin",
+    "result": "allow"
+  },  
+  {
+    "mob": "realmrpg_creep:halloweed",
+    "biome": "biomesoplenty:pumpkin_patch",
+    "result": "allow"
+  },
+  {
+    "mob": "realmrpg_creep:halloweed",
+    "result": "deny"
+  },
+
+  {
+    "mob": "realmrpg_creep:creepling",
+    "block": "minecraft:pumpkin",
+    "result": "allow"
+  },  
+  {
+    "mob": "realmrpg_creep:creepling",
+    "biome": "biomesoplenty:pumpkin_patch",
+    "result": "allow"
+  },
+  {
+    "mob": "realmrpg_creep:creepling",
+    "result": "deny"
+  },
+
+  {
+    "mob": "upgrade_aquatic:thrasher",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "upgrade_aquatic:thrasher",
+    "seesky": true,
+    "result": "deny"
+  },
+  {
+    "mob": "upgrade_aquatic:thrasher",
+    "result": "deny"
+  },
+
+  {
+    "mob": "upgrade_aquatic:great_thrasher",
+    "biome": "minecraft:deep_cold_ocean",
+    "result": "allow"
+  },
+  {
+    "mob": "upgrade_aquatic:great_thrasher",
+    "biome": "minecraft:deep_frozen_ocean",
+    "result": "allow"
+  },
+  {
+    "mob": "upgrade_aquatic:great_thrasher",
+    "biome": "minecraft:deep_lukewarm_ocean",
+    "result": "allow"
+  },
+  {
+    "mob": "upgrade_aquatic:great_thrasher",
+    "biome": "minecraft:deep_ocean",
+    "result": "allow"
+  },
+  {
+    "mob": "upgrade_aquatic:great_thrasher",
+    "incontrol": true,
+    "result": "allow"
+  },
+  {
+    "mob": "upgrade_aquatic:great_thrasher",
+    "seesky": true,
+    "result": "deny"
+  },
+  {
+    "mob": "upgrade_aquatic:great_thrasher",
+    "result": "deny"
+  },
+
+  {
+    "mob": "alexsmobs:skelewag",
+    "mintime": 13000,
+    "result": "allow",
+    "healthset": 10,
+    "damageset": 3
+  },
+  {
+    "mob": "alexsmobs:skelewag",
+    "maxtime": 23460,
+    "result": "allow",
+    "healthset": 10,
+    "damageset": 3
+  },
+  {
+    "mob": "alexsmobs:skelewag",
+    "result": "deny"
+  }
+]

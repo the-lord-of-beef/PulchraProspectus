@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "m": {
+      "item": ""
+    },
+    "s": {
+      "item": ""
+    }
+  },
+  "pattern": [
+    "  m",
+    " m ",
+    "s  "
+  ],
+  "result": {
+    "item": "nethersdelight:diamond_machete"
+  }
+}

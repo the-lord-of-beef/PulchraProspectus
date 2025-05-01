@@ -1,0 +1,24 @@
+[
+    {
+        "mob": "upgrade_aquatic:thrasher",
+        "persecond": 0.05,
+        "attempts": 20,
+        "conditions": {
+          "dimension": "minecraft:overworld",
+          "inwater": true,
+          "mindist": 5,
+          "maxheight": 10
+        }
+    },
+    {
+        "mob": "upgrade_aquatic:great_thrasher",
+        "persecond": 0.02,
+        "attempts": 15,
+        "conditions": {
+          "dimension": "minecraft:overworld",
+          "inwater": true,
+          "mindist": 5,
+          "maxheight": 20
+        }
+    }
+]

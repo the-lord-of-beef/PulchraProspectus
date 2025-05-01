@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": ""
+  },
+  "base": {
+    "item": ""
+  },
+  "result": {
+    "item": "enlightened_end:adamantite_knife"
+  }
+}

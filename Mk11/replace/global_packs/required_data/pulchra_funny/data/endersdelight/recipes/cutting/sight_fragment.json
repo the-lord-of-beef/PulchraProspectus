@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "endersdelight:enderman_sight"
+    }
+  ],
+  "tool": {
+    "item": "galosphere_delight:silver_kitchen_hammer"
+  },
+  "result": [
+    {
+      "item": "endersdelight:sight_fragment",
+      "count": 2
+    }
+  ]
+}

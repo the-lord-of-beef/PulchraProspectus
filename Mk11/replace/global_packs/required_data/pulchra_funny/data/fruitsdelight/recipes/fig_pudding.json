@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "tag": "forge:dough"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "F": {
+      "tag": "forge:fruits/fig"
+    },
+    "J": {
+      "item": "fruitsdelight:orange_slice"
+    },
+    "M": {
+      "tag": "forge:milk/milk_bottle"
+    },
+    "S": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "pattern": [
+    "MSM",
+    "EJE",
+    "FDF"
+  ],
+  "result": {
+    "item": "fruitsdelight:fig_pudding"
+  }
+}

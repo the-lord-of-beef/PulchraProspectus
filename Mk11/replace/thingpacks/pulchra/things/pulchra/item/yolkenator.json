@@ -1,0 +1,12 @@
+{
+    "type": "plain",
+    "max_stack_size": 64,
+    "max_damage": 50,
+    "food": {
+      "nutrition": 20,
+      "saturation": 10.0,
+      "meat": false,
+     "fast": false,
+     "always_eat": false
+  }
+}

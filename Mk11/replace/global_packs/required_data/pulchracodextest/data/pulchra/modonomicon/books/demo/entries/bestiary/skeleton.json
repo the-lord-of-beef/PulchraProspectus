@@ -1,0 +1,57 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "pulchra:bestiary",
+  "description": "",
+  "hide_while_locked": false,
+  "icon": "minecraft:bone",
+  "name": "Skeletons",
+  "pages": [
+    {
+      "type": "modonomicon:image",
+      "anchor": "",
+      "border": true,
+      "images": [
+        "modonomicon:textures/gui/the_bones.png"
+      ],
+      "text": "Skeletons are common undead found in many places. Skeletons are thought to be"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "resurrected from long-dead adventurers and other creatures. How this skeleton is then capable of locomotion is still up for debate, and the study of skeletons is highly complicated and sought after."
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "Skeletons often use bows, and prefer to strike from a distance. A shield can be effectively used to block their shots, and skeletons are weak in melee range. Skeletons tend to try and sidestep while attacking, in an attempt to stay difficult to hit. Skeletons are averagely accurate shots, but have a tendency to"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "accidentally hit other creatures in the way. Because of this, skeletons will frequently incite infighting among other monsters. Skeletons, like other undead, burn in daylight. Skeletons tend to reside underground and leave during the night. In theory, skeletons might be found anywhere that adventurers died long ago."
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "Skeletons are more intelligent than zombies, and actively avoid sunlight. Skeletons seem to possess some sort of social structure, but the nature of this society is mostly unknown. Skeletons don’t have many discernable structures or ways of living, but do have a noticeable pecking order. Skeletons seem"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "to settle disputes through combat, this being one of their only researched practices. Skeletons’ bones can be freely taken on death. They also usually have a reserve of arrows that can be taken, and on occasion their bows might be in good enough condition to use."
+    }
+  ],
+  "x": -17,
+  "y": -15
+}

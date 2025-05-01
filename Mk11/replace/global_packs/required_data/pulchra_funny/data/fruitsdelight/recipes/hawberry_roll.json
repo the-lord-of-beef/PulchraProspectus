@@ -1,0 +1,14 @@
+{
+  "type": "fruitsdelight:jelly_craft_shapeless",
+  "ingredients": [
+    {
+      "item": "fruitsdelight:hawberry_sheet"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "fruitsdelight:hawberry_roll"
+  }
+}

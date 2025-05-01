@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "nethersdelight:hoglin_hide"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "nourished_nether:hoglin_hide"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

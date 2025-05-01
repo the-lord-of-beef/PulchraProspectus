@@ -1,0 +1,15 @@
+{
+  "stopCrouchingIfSprinting": true,
+  "stopCrouchingIfJumping": true,
+  "stopCrouchingIfSneaking": true,
+  "stopCrouchingIfHurt": true,
+  -SpottedRadius: Radius (in blocks) within which mobs can detect and target a crouching player. Beyond this distance while crouching, mobs will ignore the player. 
+  "spottedRadius": 5.0,
+  -CrouchSpeedMultiplier: 1.0 = normal speed, 0.5 = half-speed, 0.01 = slow crouch
+  "crouchSpeedMultiplier": 0.01,
+  "holdToCrouch": false,
+  -UseVanillaCrouch: true = Shift-sneak acts as modded crouch; Z key ignored, ignores speed multiplier and uses normal crouch speed
+  "useVanillaCrouch": true,
+  -removeAnimationsForVanillaCrouch: true = skip all mod animations on vanilla sneak ONLY IF useVanillaCrouch is true
+  "removeAnimationsForVanillaCrouch": true
+}

@@ -1,0 +1,30 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 0.6,
+  "fermentingtime": 6000,
+  "fluiditem": {
+    "item": "minecraft:water_bucket"
+  },
+  "ingredients": [
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "tag": "minecraft:leaves"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "brewinandchewin:kombucha"
+  },
+  "temperature": 3
+}

@@ -1,0 +1,30 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 0.6,
+  "fermentingtime": 12000,
+  "fluiditem": {
+    "item": "minecraft:water_bucket"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "galosphere_delight:allurite_shiny_powder"
+    },
+    {
+      "item": "galosphere_delight:lumiere_shiny_powder"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+    "item": "brewinandchewin:glittering_grenadine"
+  },
+  "temperature": 2
+}

@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "tool": {
+    "item": "galosphere_delight:silver_kitchen_hammer"
+  },
+  "result": [
+    {
+      "item": "endersdelight:ender_shard",
+      "count": 2
+    }
+  ]
+}

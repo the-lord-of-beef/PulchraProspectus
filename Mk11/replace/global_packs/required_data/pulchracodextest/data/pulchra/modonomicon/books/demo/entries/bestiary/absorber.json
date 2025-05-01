@@ -1,0 +1,52 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "pulchra:bestiary",
+  "description": "",
+  "hide_while_locked": false,
+  "icon": "minecraft:rotten_flesh",
+  "name": "Absorbers",
+  "pages": [
+    {
+      "type": "modonomicon:entity",
+      "anchor": "",
+      "default_rotation": -45.0,
+      "entity_id": "illageandspillage:absorber",
+      "name": "Absorbers",
+      "offset": 0.0,
+      "rotate": true,
+      "scale": 1.0,
+      "text": "The absorber is a tough Illager born from dark magic. Absorbers are made"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "when, through truly bizarre means, a pillager is merged with a captured iron golem. It’s uncertain if this is considered a punishment or promotion by those involved. Tall, bulky and utterly stupid, these masses of muscle are a grim sight for any village’s defenses."
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "Absorbers are used as tough bodyguards for high-ranking Illagers during raids. Being capable of shaking off the mightiest weapons and warriors as though they were flies, it is said that one hundred arrows could only hope to bring one down. Absorbers do, however, have very recognisable weaknesses. Absorbers are slow,"
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "and any athletic warrior can easily avoid their blows. Absorbers are also very weak to fire. Absorbers don’t typically carry anything valuable or usable, but bringing down an absorber is essential to confronting whoever it may be protecting. Absorbers gladly give their lives to protect their masters."
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "name": "",
+      "offset": 0.0,
+      "text": "There is an old villager proverb in which a village’s greatest warriors couldn’t defeat an absorber with their greatest weapons. In the end, the villagers all fought back, and with all of them throwing sticks and rocks at it, they managed to defeat it."
+    }
+  ],
+  "x": -16,
+  "y": -15
+}

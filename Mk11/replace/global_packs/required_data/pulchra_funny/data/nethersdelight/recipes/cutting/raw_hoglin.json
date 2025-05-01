@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "nourished_nether:raw_hoglin"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "nethersdelight:hoglin_loin"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

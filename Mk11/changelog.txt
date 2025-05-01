@@ -1,0 +1,37 @@
+- Swapped mods:
+	Removed "Sulfur And Potassium - More Gunpowder"
+	Added "Potassium & Sulfur's Gunpowder Mod"
+
+- Swapped mods:
+	Removed "Bedrock Plus"
+	Added "Create: Alloyed"
+
+
+- Removed original Thrasher spawns.
+- Thrashers now spawn uncommonly in any water below Y:10.
+
+- Removed original Great Thrasher spawns.
+- Great Thrashers now spawn rarely in water below Y:20, and only in Deep Oceans.
+
+- Spearfin spawns are now restricted to nighttime. 
+- Naturally spawned Spearfins have been nerfed to half of their original health and damage.
+
+
+- Added Farmer's Delight, as well as a slew of complimentary mods for it.
+- Tweaked recipes and resources to correct conflictions between the Delight mods and existing mods.
+
+- Added Useful Spyglasses, which displays some simple info about what a player is looking at when viewed through a spyglass.
+
+- Added Potion Blender, which allows players to combine two potions using a new block.
+
+- Added Json Things, a utility which allows for items to be created through simple means.
+- Added the custom "Yolkenator" item. It can be crafted, but its name isn't functional as of now.
+
+- Removed Netherever, which was the culprit of a Nether-related audio bug and some performance issues.
+- Keep in mind that this removed a few biomes, which may cause some trouble in worlds that had the mod installed.
+
+
+- Removed the example advancements. Other advancements have also been temporarily hidden.
+
+
+- Renamed Nether Sulfar to Inferno Powder

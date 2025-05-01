@@ -1,0 +1,58 @@
+{
+	"general": {
+		// Dev Logs: Enable developer logs, good idea not to enable this due to it being able to cause large log sizes.
+		"devLogs": false,
+		// Minimum Stage Interval: The minimum amount of seconds until the infection progresses to next stage.
+		"minStageInterval": 120,
+		// Maximum Stage Interval: The maximum amount of seconds until the infection progresses to next stage.
+		"maxStageInterval": 600,
+		// Is Effect Visible: If the effect is visible when infected by normal means.
+		"isEffectVisible": true,
+		// Immunity Effects: Effects which make the entity immune to the Sculk Sickness
+		"immunityEffects": [
+			"sculksickness:sculk_immunity"
+		],
+		// Chance to apply Sculk Sickness when stepping on / breaking sculk blocks or being hit by and infected entity / sculk mob. Should be from 0 to below 1.
+		"randomInfectChance": 0.1,
+		// Step Infect: Does stepping on Sculk blocks infect an entity? (Not to be confused with the Sculk Blossom step mechanics, refer to blossomInfect)
+		"stepInfect": false,
+		// Break Infect: Does breaking any Sculk block infect the player? (Not to be confused with the Sculk Blossom break mechanics, refer to blossomInfect)
+		"breakInfect": false,
+		// Hit Infect: Does being hit by any Sculk entity or Sculk infected entity infect an entity?
+		"hitInfect": true,
+		// Sculk Blossom Infect: Does being around a spewing Sculk Blossom infect an entity.
+		"blossomInfect": true
+	},
+	"blossoms": {
+		// Minimum Blossom Interval: The minimum amount of seconds until a Sculk Blossom ages.
+		"minBlossomInterval": 30,
+		// Maximum Blossom Interval: The maximum amount of seconds until a Sculk Blossom ages.
+		"maxBlossomInterval": 180,
+		// Blossom Max Spew Time: The amount of seconds until a Sculk Blossom stops spewing spores.
+		"maxSpewTime": 8,
+		// Blossom Min Spew Time: The amount of seconds until a Sculk Blossom stops spewing spores.
+		"minSpewTime": 16,
+		// Blossom Spew Radius: The radius a Sculk Blossom can infect an entity.
+		"blossomInfectRadius": 8,
+		// Blossom Spawn Chance: The chance that a Sculk Blossom spawns from a catalyst, higher = less chance.
+		"blossomSpawnChance": 11,
+		// Blossom Spawn Can Spew: If a blossom should spawn from a catalyst with the ability to spew spores.
+		"blossomSpawnCanSpew": true
+	},
+	"darknessSymptom": {
+		// Stage for 'Darkness' (Grants darkness & amplifies custom shader effect), should be a number 1-5
+		"applyDarknessAtStage": 3
+	},
+	"weaknessSymptom": {
+		// Stage for Weakness Effect & Shaking, should be a whole number 1-5
+		"applyWeaknessAtStage": 1
+	},
+	"damageSymptom": {
+		// Stage for Damage, should be a whole number 1-5
+		"applyDamageAtStage": 5,
+		// Amount of damage taken per half second. Should be a whole number above 0. 1 = 0.5 hearts of damage.
+		"applyDamageAmountPerHalfSecond": 3,
+		// Chance to apply damage per half second. Should be from 0 to below 1.
+		"randomDamageChance": 0.1
+	}
+}

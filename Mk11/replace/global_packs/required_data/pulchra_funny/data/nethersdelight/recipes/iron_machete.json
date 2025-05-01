@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "m": {
+      "tag": ""
+    },
+    "s": {
+      "item": ""
+    }
+  },
+  "pattern": [
+    "  m",
+    " m ",
+    "s  "
+  ],
+  "result": {
+    "item": "nethersdelight:iron_machete"
+  }
+}

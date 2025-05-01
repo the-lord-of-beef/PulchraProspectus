@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "m": {
+      "item": ""
+    },
+    "s": {
+      "item": ""
+    }
+  },
+  "pattern": [
+    "m",
+    "s"
+  ],
+  "result": {
+    "item": "farmersdelight:golden_knife"
+  }
+}
