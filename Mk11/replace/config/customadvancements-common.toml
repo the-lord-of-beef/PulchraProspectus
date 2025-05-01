@@ -3,7 +3,7 @@
 	#Whether the mod should send a chat message if an update is available
 	warnMessage = false
 	#Whether the mod should remove all advancements
-	noAdvancements = true
+	noAdvancements = false
 	#Whether the mod should remove all recipe advancements
 	noRecipeAdvancements = false
 	#Blacklist of Advancements that should be removed by the mod
